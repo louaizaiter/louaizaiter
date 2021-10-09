@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @louaizaiter
 - 👀 I’m interested in programming and fishing
-- 🌱 I’m currently learning the rust language
-- 💞️ I’m looking to collaborate on system development
+- 🌱 I’m currently learning the Rust programming language
+- 💞️ I’m looking to collaborate on system development projects
 - 📫 How to reach me louaizaiter@gmail.com
 
 <!---
